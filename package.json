@@ -1,0 +1,18 @@
+{
+  "name": "elm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "elm-repl": "elm-repl",
+    "elm-reactor": "elm-reactor",
+    "elm-make": "elm-make",
+    "elm-package": "elm-package"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm": "^0.17.1"
+  }
+}
